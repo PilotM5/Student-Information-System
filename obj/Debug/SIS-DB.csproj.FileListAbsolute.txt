@@ -1,0 +1,14 @@
+c:\users\pilot\documents\visual studio 2012\Projects\SIS-DB\SIS-DB\bin\Debug\SIS-DB.exe.config
+c:\users\pilot\documents\visual studio 2012\Projects\SIS-DB\SIS-DB\bin\Debug\SIS-DB.exe
+c:\users\pilot\documents\visual studio 2012\Projects\SIS-DB\SIS-DB\bin\Debug\SIS-DB.pdb
+c:\users\pilot\documents\visual studio 2012\Projects\SIS-DB\SIS-DB\obj\Debug\SIS-DB.csprojResolveAssemblyReference.cache
+c:\users\pilot\documents\visual studio 2012\Projects\SIS-DB\SIS-DB\obj\Debug\SIS_DB.Login.resources
+c:\users\pilot\documents\visual studio 2012\Projects\SIS-DB\SIS-DB\obj\Debug\SIS_DB.Properties.Resources.resources
+c:\users\pilot\documents\visual studio 2012\Projects\SIS-DB\SIS-DB\obj\Debug\SIS-DB.csproj.GenerateResource.Cache
+c:\users\pilot\documents\visual studio 2012\Projects\SIS-DB\SIS-DB\obj\Debug\SIS-DB.exe
+c:\users\pilot\documents\visual studio 2012\Projects\SIS-DB\SIS-DB\obj\Debug\SIS-DB.pdb
+c:\users\pilot\documents\visual studio 2012\Projects\SIS-DB\SIS-DB\obj\Debug\SIS_DB.Students.resources
+C:\Users\PILOT\documents\visual studio 2012\Projects\SIS-DB\SIS-DB\obj\Debug\SIS_DB.Department.resources
+C:\Users\PILOT\documents\visual studio 2012\Projects\SIS-DB\SIS-DB\obj\Debug\SIS_DB.Dashboard.resources
+C:\Users\PILOT\documents\visual studio 2012\Projects\SIS-DB\SIS-DB\bin\Debug\SIS-DB.mdf
+C:\Users\PILOT\documents\visual studio 2012\Projects\SIS-DB\SIS-DB\bin\Debug\SIS-DB_log.ldf
